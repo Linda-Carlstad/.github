@@ -1,4 +1,4 @@
-<p align="center"><img src="https://lindacarlstad.se/img/logo.png"></p>
+<p align="center"><img width="200" src="https://lindacarlstad.se/img/logo.png"></p>
 
 # Linda Carlstad
 
