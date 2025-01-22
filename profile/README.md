@@ -1,6 +1,6 @@
-# LINDA Carlstad
+# Linda Carlstad
 
-Officiel Git-repository för studentföreningen LINDA Carlstad i Sverige, Karlstad. Föreningen står under och med stöd från Karlstads universitet. LINDA Carlstad är en förening för studenter som studerar datavetenskap, webbutveckling och mjukvarusystemdesign.
+Officiel Git-repository för studentföreningen Linda Carlstad i Sverige, Karlstad. Föreningen står under och med stöd från Karlstads universitet. Linda Carlstad är en förening för studenter som studerar datavetenskap, webbutveckling och mjukvarusystemdesign.
 
 [![](https://img.shields.io/badge/LinkedIn-Linda%20Carlstad-blue)](https://www.linkedin.com/company/linda-carlstad/)
 [![](https://img.shields.io/badge/Kontakt-info%40lindacarlstad.se-green)](mailto:info@lindacarlstad.se)
